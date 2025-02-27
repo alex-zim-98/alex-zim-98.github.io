@@ -24,6 +24,7 @@ const Header = ({ toggle }) => {
         </NavMenu>
         <NavBtn>
           <a
+          //del
             className="btn PrimaryBtn"
             href="https://drive.google.com/file/d/1bmCWEXVAn0rcUEfeJyAaYPS2FcmL95KX/view?usp=sharing"
             target="_blank"
